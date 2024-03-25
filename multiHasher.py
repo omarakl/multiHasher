@@ -2,7 +2,7 @@
 
 import hashlib
 print("			")
-mainPass = raw_input("Enter a password to be hashed ! : ")
+mainPass = raw_input("Enter a text to be hashed ! : ")
 print("		")
 print("*****************************************************  MultiHasher  ********************************************************************** ")
 print("		")
