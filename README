@@ -11,7 +11,7 @@
 
 
 
-MultiHasher  is a python based tool that can be used in hashing passwords in 5 different hashing types.
+MultiHasher is a python based tool that can be used to hash texts
 
 1- MD5
 2- SHA-1
